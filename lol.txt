@@ -11,3 +11,15 @@ Hello! This is getting repetitive...
 cout << "World! reply to me, goddamnit...";
 
 (corrected something)
+
+Hello!!! enthusiastic about the new repository
+
+cout << "its a forked repo, idiot..";
+
+adding a new commit.........coz i can
+
+cout << "you forgot Hello! or yo! this time...";
+
+"Hello!". Happy?...anyways, lets ask the owner to keep these changes
+
+cout << "be technical, you dolt. its called pull request";
