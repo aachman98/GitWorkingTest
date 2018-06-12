@@ -23,3 +23,9 @@ cout << "you forgot Hello! or yo! this time...";
 "Hello!". Happy?...anyways, lets ask the owner to keep these changes
 
 cout << "be technical, you dolt. its called pull request";
+
+
+
+OH LOOK!!!! i pulled this out from the website and is now updated with latest stuff
+
+cout << "\"pulled this out from the website\"?!?!??! \"updated with latest stuff\"!!! oh and you call yourself a coder...???? :/ ";
