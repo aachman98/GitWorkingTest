@@ -19,3 +19,7 @@ cout << "its a forked repo, idiot..";
 adding a new commit.........coz i can
 
 cout << "you forgot Hello! or yo! this time...";
+
+"Hello!". Happy?...anyways, lets ask the owner to keep these changes
+
+cout << "be technical, you dolt. its called pull request";
